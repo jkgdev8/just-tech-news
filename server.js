@@ -1,4 +1,4 @@
-//13.2.1
+//13.2.6
 const express = require('express');
 const routes = require('./routes');
 const sequelize = require('./config/connection');
