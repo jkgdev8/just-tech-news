@@ -1,4 +1,3 @@
-//13.3.6
 const express = require('express');
 const routes = require('./routes');
 const sequelize = require('./config/connection');
